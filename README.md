@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nikita779
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on kaggle projects
-- 📫 How to reach me patil.nik@northeastern.edu
-
-<!---
-nikita779/nikita779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring Data Scientist. I am highly motivated individual to apply my data science knowledge, experience and provide valuable insights to solve challenging problems in healthcare/ business. I have an experience of working in a diversified environment and have gained deep-rooted knowledge of the various competencies.
+🎓 I'm pursuing Masters in Data Science at Northeastern University..
+🌱 I am currently learning Natural Language Processing, deep learning and it's various applications.
+📫 I'm best way to reach out to me is patil.nik@northeastern.edu and also via LinkedIn. I'm always open to interesting conversations and collaboration.
